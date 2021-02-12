@@ -6,4 +6,4 @@ metadata:
   namespace: du-subscriptions
 spec:
   type: GitHub
-  pathname: https://github.com/serngawy/ztp-ran-manifests
+  pathname: https://github.com/imiller0/ztp-ran-manifests
